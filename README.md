@@ -19,7 +19,6 @@ Furthermore you can simply look at the notebook in the jupyter notebook file.
 - [matplotlib](https://matplotlib.org/)
 - [pandas](https://pandas.pydata.org/)
 - [tensorflow](https://www.tensorflow.org/)
-- [Kaggle Dataset](https://www.kaggle.com/c/titanic)
 
 
 ## 🤝 Contributing
